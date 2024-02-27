@@ -510,6 +510,8 @@ Window {
                 anchors.centerIn: parent
                 text:  model.value
 				color : "white"
+				font.pixelSize : 14
+				
             }
         }
     }
@@ -560,6 +562,7 @@ Window {
 						anchors.centerIn: parent
 						text:  model.value
 						color : "white"
+						font.pixelSize : 14
 					}
 				}
 			}
@@ -616,6 +619,7 @@ Window {
 						anchors.centerIn: parent
 						text:  model.value
 						color : "white"
+						font.pixelSize : 14
 					}
 				}
 			}
@@ -640,6 +644,7 @@ Window {
 						anchors.centerIn: parent
 						text:  ""
 						color : "white"
+						font.pixelSize : 14
 					}
 	}
 	
